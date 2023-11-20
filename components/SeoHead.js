@@ -9,12 +9,12 @@ const defaultMeta = {
   description:
     'Landing page VPN Hackaton Best VPN For Privacy, Country and Cheapest',
   // change base url of your web (without '/' at the end)
-  url: 'https://surgy.vercel.app',
+  url: 'https://hackaton-admin.vercel.app',
   type: 'website',
   robots: 'follow, index',
   // change with url of your image (recommended dimension = 1.91:1)
   // used in twitter, facebook, etc. card when link copied in tweet/status 
-  image: 'https://surgy.vercel.app/assets/card-image.png',
+  image: 'https://hackaton-admin.vercel.app/assets/card-image.png',
   author: 'Lorem Ipsum'
 };
 
