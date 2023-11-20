@@ -105,7 +105,11 @@ const Header = () => {
                   Sign In
               </a>
             </Link>
-            <ButtonOutline>Sign Up</ButtonOutline>
+            <ButtonOutline>
+              <a href="/signup">
+                Sign Up
+              </a>
+            </ButtonOutline>
           </div>
         </nav>
       </header>
