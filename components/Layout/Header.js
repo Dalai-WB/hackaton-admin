@@ -42,7 +42,7 @@ const Header = () => {
                   : " text-black-500 hover:text-orange-500 a")
               }
             >
-              About
+              Нүүр
             </LinkScroll>
             <LinkScroll
               activeClass="active"
@@ -60,7 +60,7 @@ const Header = () => {
                   : " text-black-500 hover:text-orange-500 ")
               }
             >
-              Feature
+              Давуу тал
             </LinkScroll>
             <LinkScroll
               activeClass="active"
@@ -78,7 +78,7 @@ const Header = () => {
                   : " text-black-500 hover:text-orange-500 ")
               }
             >
-              Pricing
+              Багш нар
             </LinkScroll>
             <LinkScroll
               activeClass="active"
@@ -96,7 +96,7 @@ const Header = () => {
                   : " text-black-500 hover:text-orange-500 ")
               }
             >
-              Testimonial
+              Бидний тухай
             </LinkScroll>
           </ul>
           <div className="col-start-10 col-end-12 font-medium flex justify-end items-center">

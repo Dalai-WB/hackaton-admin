@@ -8,19 +8,19 @@ import ScrollAnimationWrapper from "./Layout/ScrollAnimationWrapper";
 const Hero = ({
   listUser = [
     {
-      name: "Users",
-      number: "390",
+      name: "Сурагчид",
+      number: "100",
       icon: "/assets/Icon/heroicons_sm-user.svg",
     },
     {
-      name: "Locations",
-      number: "20",
+      name: "Оффис",
+      number: "1",
       icon: "/assets/Icon/gridicons_location.svg",
     },
     {
-      name: "Server",
-      number: "50",
-      icon: "/assets/Icon/bx_bxs-server.svg",
+      name: "Сургагч оюутнууд",
+      number: "20",
+      icon: "/assets/Icon/heroicons_sm-user.svg",
     },
   ],
 }) => {
@@ -37,13 +37,13 @@ const Hero = ({
             variants={scrollAnimation}>
             <div className=" flex flex-col justify-center items-start row-start-2 sm:row-start-1">
               <h1 className="text-3xl lg:text-4xl xl:text-5xl font-medium text-black-600 leading-normal">
-                Want anything to be easy with <strong>Hackaton</strong>.
+                Хичээлээ ах эгч нараасаа суралцах төгс боломж <strong>Gerelee</strong>.
               </h1>
               <p className="text-black-500 mt-4 mb-6">
-                Provide a network for all your needs with ease and fun using
-                Hackaton discover interesting features from us.
+              Элсэлтийн ерөнхий шалгалтад өндөр оноо аван их сургуульдаа
+              амжилттай суралцаж буй оюутнууд танай хүүхдэд хичээл заах болно.
               </p>
-              <ButtonPrimary>Get Started</ButtonPrimary>
+              <ButtonPrimary>Суралцах</ButtonPrimary>
             </div>
             <div className="flex w-full">
               <motion.div className="h-full w-full" variants={scrollAnimation}>

@@ -2,13 +2,12 @@
 export default function SignUp() {
     const render = (
         <div className="bg-no-repeat bg-cover bg-center relative" >
-            <div className="absolute bg-gradient-to-b from-green-500 to-green-400 opacity-75 inset-0 z-0"></div>
+            <div className="border-2">
             <div className="min-h-screen sm:flex sm:flex-row mx-0 justify-center ">
                 <div className="flex-col flex  self-center p-10 sm:max-w-5xl xl:max-w-2xl  z-10">
                     <div className="self-start hidden lg:flex flex-col  text-white">
                     <img src="" className="mb-3" />
-                    <h1 className="mb-3 font-bold text-5xl">Hi ? Welcome Surgy</h1>
-                    <p className="pr-3">developed by Erdene-Dalai, Dugartogtokh, Davaasuren</p>
+                    <h1 className="mb-3 font-bold text-5xl">Hi ? Welcome back</h1>
                     </div>
                 </div>
                 <div className="flex justify-center self-center z-10">
@@ -48,6 +47,7 @@ export default function SignUp() {
                         </div>
                     </div>
                 </div>
+            </div>
             </div>
         </div>
     );

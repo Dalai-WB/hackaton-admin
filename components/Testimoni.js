@@ -10,40 +10,40 @@ import ArrowNext from "../public/assets/Icon/eva_arrow-next-fill.svg";
 const Testimoni = ({
   listTestimoni = [
     {
-      name: "iezh Robert",
+      name: "Б. Бат",
       image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
+      city: "МУИС",
+      country: "3-р курс",
       rating: "4.5",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. Hackaton always the best",
+        "Би энэ системийг ашиглан хүүхдүүдэд хичээл зааж мөн түүгээрээ мөнгө олж байгаадаа үнэхээр их баярлаж байна",
     },
     {
-      name: "iezh Robert",
-      image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
+      name: "Э. Энхжин",
+      image: "/assets/people-2.png",
+      city: "МУИС",
+      country: "2-р курс",
       rating: "4.5",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. Hackaton always the best",
+        "Миний хичээл зааж өгсөн хүүхэд эеш-д өндөр оноо авж байгаа нь үнэхээр сайхан санагддаг.",
     },
     {
-      name: "iezh Robert",
+      name: "Б. Бат",
       image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
+      city: "МУИС",
+      country: "3-р курс",
       rating: "4.5",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. Hackaton always the best",
+        "Би энэ системийг ашиглан хүүхдүүдэд хичээл зааж мөн түүгээрээ мөнгө олж байгаадаа үнэхээр их баярлаж байна",
     },
     {
-      name: "iezh Robert",
-      image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
+      name: "Э. Энхжин",
+      image: "/assets/people-2.png",
+      city: "МУИС",
+      country: "2-р курс",
       rating: "4.5",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. Hackaton always the best",
+        "Миний хичээл зааж өгсөн хүүхэд эеш-д өндөр оноо авж байгаа нь үнэхээр сайхан санагддаг.",
     },
   ],
 }) => {
