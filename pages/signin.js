@@ -2,7 +2,6 @@
 export default function SignUp() {
     const render = (
         <div className="bg-no-repeat bg-cover bg-center relative" >
-            <div className="border-2">
             <div className="min-h-screen sm:flex sm:flex-row mx-0 justify-center ">
                 <div className="flex-col flex  self-center p-10 sm:max-w-5xl xl:max-w-2xl  z-10">
                     <div className="self-start hidden lg:flex flex-col  text-white">
@@ -47,7 +46,6 @@ export default function SignUp() {
                         </div>
                     </div>
                 </div>
-            </div>
             </div>
         </div>
     );
